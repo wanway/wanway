@@ -1,5 +1,9 @@
 == README
 
+已经传到 heroku 上面了，更改了 gemfile ，成功上传
+
+还有一个问题，是不可以访问首页。
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
