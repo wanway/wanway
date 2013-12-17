@@ -1,32 +1,13 @@
 == README
 
-ÒÑ¾­´«µ½ heroku ÉÏÃæÁË£¬¸ü¸ÄÁË gemfile £¬³É¹¦ÉÏ´«
+*æœ¬åœ°ç¯å¢ƒ*
+ruby 1.9.3ã€sqlite3
 
-»¹ÓĞÒ»¸öÎÊÌâ£¬ÊÇ²»¿ÉÒÔ·ÃÎÊÊ×Ò³¡£
+*ä»“åº“å†…å®¹*
+ä¸€ä¸ªç”¨è„šæ‰‹æ¶ç”Ÿæˆçš„ blog æ¡†æ¶
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*è¯´æ˜æ–‡æ¡£ä¸­çš„æ ¼å¼*
 
-Things you may want to cover:
+åŠ ç²—æ ·å¼ï¼šç”¨æ˜Ÿå·å°†æ–‡å­—æ¡†èµ·æ¥å³å¯
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+å‘½ä»¤æ ·å¼ï¼š<tt>rake doc:app</tt>.
